@@ -29,3 +29,21 @@ color: #002f6c;
 font-size: 13px;
 color: #e0dfdf;
 }
+header {
+ background-color:#2adE39;
+ color:#bdC3C3;
+front:-family:Arial,sans-serif;
+text-align:center;
+height:160px;
+margin:0;
+border:none;
+width:100%;
+ display:Flex;
+align-itens:center;
+justify-content:center;
+}
+ Html,body{
+  margin:0;
+  padding:0;
+ box-Saying:border-box;
+ }
